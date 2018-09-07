@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://www.giahungreal.com.vn' target='_blank'><img src='https://1.bp.blogspot.com/-bPLp1Yu--eA/W5IsxooPIDI/AAAAAAAAACo/uenZi4J1mxwGexUTG2WzvaEMwJhndL-tgCPcBGAYYCw/s1600/v%25E1%25BB%258B-tr%25C3%25AD-an-ph%25C3%25BA-2.jpg' width='500px'/><br/>Bán dự án đất nền An Phú Bình Dương</a>. Liên hệ: 0906939012 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://www.giahungreal.com.vn' target='_blank'><img src='https://1.bp.blogspot.com/-bPLp1Yu--eA/W5IsxooPIDI/AAAAAAAAACo/uenZi4J1mxwGexUTG2WzvaEMwJhndL-tgCPcBGAYYCw/s1600/v%25E1%25BB%258B-tr%25C3%25AD-an-ph%25C3%25BA-2.jpg' width='500px'/><br/>Bán dự án đất nền An Phú Bình Dương</a>. Liên hệ: 0906 939 012 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
